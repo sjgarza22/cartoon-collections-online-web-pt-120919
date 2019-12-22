@@ -24,3 +24,5 @@ def find_the_cheese(snacks)# code an argument here
     return nil
   end
 end
+
+find_the_cheese(["tomato", "olives", "camembert"])
