@@ -1,4 +1,3 @@
-require 'pry'
 
 def roll_call_dwarves(dwarf_names) # code an argument here
   # Your code here
